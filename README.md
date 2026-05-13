@@ -1,8 +1,10 @@
-<div align="center">
-  <img src="demolab.com+👋;I'm+Asifa+Akther+Nilyma+✨" alt="Typing SVG" />
-  <h3>💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast</h3>
-  <p>📍 Sylhet, Bangladesh</p>
-</div>
+<h1 align="center">Hi 👋, I'm Asifa Akther Nilyma</h1>
+<h3 align="center">
+💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast
+</h3>
+<p align="center">
+📍 Sylhet, Bangladesh
+</p>
 
 ---
 
@@ -100,8 +102,8 @@ I aim to grow as a skilled developer and contribute to meaningful technological 
 ## 📫 Contact Me
 
 📧 Email: [nilyma43013@gmail.com](mailto:nilyma43013@gmail.com)
-🔗 LinkedIn: linkedin.com
+🔗 LinkedIn: https://www.linkedin.com/in/nilyma/
 
 ---
 
-<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to connect and collaborate.</i></p>
+⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*

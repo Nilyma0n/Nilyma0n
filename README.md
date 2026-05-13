@@ -1,24 +1,107 @@
 <div align="center">
-
-  <!-- গিটহাব সাপোর্টেড পিওর সিএসএস টাইপিং অ্যানিমেশন -->
-  <h1 style="font-family: monospace; border-right: .15em solid orange; white-space: nowrap; margin: 0 auto; letter-spacing: .15em; animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite; overflow: hidden; max-width: fit-content;">
-    Hi 👋, I'm Asifa Akther Nilyma ✨
-  </h1>
-
-  <h3 style="margin-top: 10px;">💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast</h3>
+  <img src="demolab.com+👋;I'm+Asifa+Akther+Nilyma+✨" alt="Typing SVG" />
+  <h3>💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast</h3>
   <p>📍 Sylhet, Bangladesh</p>
 </div>
 
-<!-- অ্যানিমেশন সচল রাখার জন্য গিটহাব ফ্রেন্ডলি স্টাইল ব্লক -->
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
-</style>
+---
+
+## 🚀 About Me
+
+I am a motivated and enthusiastic Computer Science and Engineering student with a strong passion for technology and innovation. I enjoy building impactful projects, solving real-world problems, and continuously improving my technical and leadership skills.
+
+I aim to grow as a skilled developer and contribute to meaningful technological solutions.
 
 ---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+
+* Python, C, C++
+
+### 🌐 Web Development
+
+* HTML, CSS, JavaScript
+* React.js, Node.js, Express.js
+
+### 🗄️ Database
+
+* MySQL, MongoDB
+
+### 🤖 Machine Learning
+
+* Data Preprocessing
+* Model Training
+* Scikit-learn, Pandas, NumPy
+
+### ⚙️ Tools & Platforms
+
+* Git, GitHub, VS Code
+* Google Colab, MS Office, Google Workspace
+
+---
+
+## 🧠 Professional Skills
+
+* Problem Solving & Analytical Thinking
+* Communication & Public Speaking
+* Leadership & Team Collaboration
+* Project Management & Time Management
+* Adaptability & Continuous Learning
+* Research & Technical Writing
+
+---
+
+## 🏆 Achievements
+
+* 🏅 Participated in Cefalo SUST Inter University Programming Contest 2023
+* 🏅 National Girls Programming Contest 2023
+* 🎓 Completed C++ Course (SIU, 2023)
+* 🎉 Participated in SUST CSE Carnival 2024 & MU CSE Society IUPC 2024
+
+---
+
+## 💼 Experience
+
+**Host – Women Travelers of Bangladesh**
+📅 Dec 2023 – Present
+
+---
+
+## 🌟 Leadership & Activities
+
+* Executive Member – SIU Cultural Club
+* International Service Director – Rotaract Club of SIU
+* Campus Ambassador – Interactive Cares & bdapps
+* Campus Coordinator & Community Engagement Coordinator – YUNet
+* SHE Squads Leader – bdapps
+* Volunteer – Bangladesh Physics Olympiad (2024, 2025)
+
+---
+
+## 🎯 Interests
+
+* Robotics & Electronics
+* Research & Innovation
+* Photography & Blogging
+* Traveling & Cooking
+
+---
+
+## 🌍 Languages
+
+* Bengali (Native)
+* English (Professional)
+* Hindi (Conversational)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: [nilyma43013@gmail.com](mailto:nilyma43013@gmail.com)
+🔗 LinkedIn: linkedin.com
+
+---
+
+<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to connect and collaborate.</i></p>

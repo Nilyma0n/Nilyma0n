@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Asifa Akther Nilyma</h1>
-<h3 align="center">
-💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast
-</h3>
 <p align="center">
-📍 Sylhet, Bangladesh
+  <img src="demolab.com" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="shields.io" />
+</p>
+
+<p align="center">
+  <img src="komarev.com" alt="Profile Views" />
 </p>
 
 ---
@@ -16,42 +21,69 @@ I aim to grow as a skilled developer and contribute to meaningful technological 
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="vercel.app" width="48%" />
+  <img src="herokuapp.com" width="48%" />
+</p>
+
+<p align="center">
+  <img src="vercel.app" width="60%" />
+</p>
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-
-* Python, C, C++
+<p align="left">
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+</p>
 
 ### 🌐 Web Development
-
-* HTML, CSS, JavaScript
-* React.js, Node.js, Express.js
+<p align="left">
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+</p>
 
 ### 🗄️ Database
-
-* MySQL, MongoDB
+<p align="left">
+  <img src="shields.io" />
+  <img src="shields.io" />
+</p>
 
 ### 🤖 Machine Learning
-
-* Data Preprocessing
-* Model Training
-* Scikit-learn, Pandas, NumPy
+<p align="left">
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+</p>
 
 ### ⚙️ Tools & Platforms
-
-* Git, GitHub, VS Code
-* Google Colab, MS Office, Google Workspace
+<p align="left">
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+  <img src="shields.io" />
+</p>
 
 ---
 
 ## 🧠 Professional Skills
 
-* Problem Solving & Analytical Thinking
-* Communication & Public Speaking
-* Leadership & Team Collaboration
-* Project Management & Time Management
-* Adaptability & Continuous Learning
-* Research & Technical Writing
+* 🧩 Problem Solving & Analytical Thinking
+* 📢 Communication & Public Speaking
+* 🤝 Leadership & Team Collaboration
+* 📅 Project Management & Time Management
+* 🔄 Adaptability & Continuous Learning
+* 📝 Research & Technical Writing
 
 ---
 
@@ -73,37 +105,43 @@ I aim to grow as a skilled developer and contribute to meaningful technological 
 
 ## 🌟 Leadership & Activities
 
-* Executive Member – SIU Cultural Club
-* International Service Director – Rotaract Club of SIU
-* Campus Ambassador – Interactive Cares & bdapps
-* Campus Coordinator & Community Engagement Coordinator – YUNet
-* SHE Squads Leader – bdapps
-* Volunteer – Bangladesh Physics Olympiad (2024, 2025)
+* 🎭 Executive Member – SIU Cultural Club
+* 🌐 International Service Director – Rotaract Club of SIU
+* 🚀 Campus Ambassador – Interactive Cares & bdapps
+* 🤝 Campus Coordinator & Community Engagement Coordinator – YUNet
+* 👑 SHE Squads Leader – bdapps
+* 🧪 Volunteer – Bangladesh Physics Olympiad (2024, 2025)
 
 ---
 
 ## 🎯 Interests
 
-* Robotics & Electronics
-* Research & Innovation
-* Photography & Blogging
-* Traveling & Cooking
+* 🤖 Robotics & Electronics
+* 🔬 Research & Innovation
+* 📸 Photography & Blogging
+* ✈️ Traveling & Cooking
 
 ---
 
 ## 🌍 Languages
 
-* Bengali (Native)
-* English (Professional)
-* Hindi (Conversational)
+* 🇧🇩 Bengali (Native)
+* 🇬🇧 English (Professional)
+* 🇮🇳 Hindi (Conversational)
 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: [nilyma43013@gmail.com](mailto:nilyma43013@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/nilyma/
+<p align="left">
+  <a href="mailto:nilyma43013@gmail.com">
+    <img src="shields.io" />
+  </a>
+  <a href="https://www.linkedin.com/in/nilyma/" target="_blank">
+    <img src="shields.io" />
+  </a>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect and collaborate.*
+<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to connect and collaborate.</i></p>

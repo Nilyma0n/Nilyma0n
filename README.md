@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Asifa Akther Nilyma</h1>
-<h3 align="center">
-💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Asifa+Akther+Nilyma;CSE+Student;Machine+Learning+Enthusiast;Future+Software+Engineer" />
+</h1>
 <p align="center">
 📍 Sylhet, Bangladesh
 </p>

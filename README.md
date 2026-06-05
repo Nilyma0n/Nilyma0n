@@ -1,6 +1,9 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Asifa Akther Nilyma
 </h1>
+<h3 align="center"> 
+💻 CSE Student • 🚀 Aspiring Developer • 🤖 ML Enthusiast 
+</h3> 
 <p align="center">
 📍 Sylhet, Bangladesh
 </p>
